@@ -1,6 +1,6 @@
 ## Práctica para el módulo Fundamentos  iOS de Keepcoding.
-En esta práctica desarrollo una pequeña app con xcode y lenguaje swift bajo el patrón de diseño MVC (Model View Controller).
-Para su elaboración se consumido la **API** de Dragon Ball para realizar llamadas de red. 
+En esta práctica desarrollo una pequeña app con **Xcode** y lenguaje **Swift** bajo el patrón de diseño MVC (Model View Controller).
+Para su elaboración se ha consumido el servicio de la **API** de Dragon Ball para realizar llamadas de red. 
 
 ## Empecemos 👇
 
